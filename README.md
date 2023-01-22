@@ -2,7 +2,7 @@
 
 
 
-- :fire: Desenvolvedor FullStack jr, com ênfase na área de Front-end!
+- :fire: Desenvolvedor FullStack, com ênfase na área de Front-end!
 
 
 - :sparkles: Atualmente atuo em projetos pessoais para agregar em minha experiência como programador!
@@ -18,7 +18,7 @@
 
 
 
-- :fire: FullStack jr developer, with emphasis on the Front-end area!
+- :fire: FullStack developer, with emphasis on the Front-end area!
 
 
 - :sparkles: I'm currently working on personal projects to add to my experience as a programmer!
