@@ -2,7 +2,7 @@
 
 
 
-- :fire: Desenvolvedor FullStack, com ênfase na área de Front-end!
+- :fire: Desenvolvedor Front-end!
 
 
 - :sparkles: Atualmente atuo em projetos pessoais para agregar em minha experiência como programador!
@@ -18,7 +18,7 @@
 
 
 
-- :fire: FullStack developer, with emphasis on the Front-end area!
+- :fire: Front-end developer!
 
 
 - :sparkles: I'm currently working on personal projects to add to my experience as a programmer!
@@ -26,7 +26,7 @@
 
 - All my projects are available at [:hammer: Portfolio under construction.](https://github.com/PedroFurlann)
 
-- I answer questions about **HTML, CSS, Bootstrap, Javascipt, ReactJS, Node.JS, ExpressJS and SQL.**
+- I answer questions about **HTML, CSS, Javascipt, Typescript, ReactJS, Node.JS and SQL.**
 
 ## :zap: &nbsp;Tecnologias que domino / Technologies I master:
 <img align="center" alt="HTML5"
