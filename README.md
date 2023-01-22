@@ -10,7 +10,7 @@
 
 -  Todos os meu projetos estão disponíveis em [:hammer: Portifólio em construção.](https://github.com/PedroFurlann)
 
-- Respondo questões sobre **HTML, CSS, JavascRipt, Typescript, ReactJS, Node.JS e SQL.**
+- Respondo questões sobre **HTML, CSS, Javascript, Typescript, ReactJS, Node.JS e SQL.**
 
 <br></br>
 
