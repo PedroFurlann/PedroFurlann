@@ -10,7 +10,7 @@
 
 -  Todos os meu projetos estão disponíveis em [:hammer: Portifólio em construção.](https://github.com/PedroFurlann)
 
-- Respondo questões sobre **HTML, CSS, Javascript, Typescript, ReactJS, Node.JS e SQL.**
+- Respondo questões sobre **HTML, CSS, Javascript, Typescript, ReactJS, React Native, Node.JS e SQL.**
 
 <br></br>
 
@@ -26,7 +26,7 @@
 
 - All my projects are available at [:hammer: Portfolio under construction.](https://github.com/PedroFurlann)
 
-- I answer questions about **HTML, CSS, Javascript, Typescript, ReactJS, Node.JS and SQL.**
+- I answer questions about **HTML, CSS, Javascript, Typescript, ReactJS, React Native, Node.JS and SQL.**
 
 ## :zap: &nbsp;Tecnologias que domino / Technologies I master:
 <img align="center" alt="HTML5"
