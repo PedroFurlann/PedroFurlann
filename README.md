@@ -9,7 +9,6 @@
 
 - Respondo questões sobre **HTML, CSS, Javascript, Typescript, ReactJS, React Native, Node.JS e SQL.**
 
-<br></br>
 
 <h1> Welcome to my Github! I'm Pedro Furlan! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
