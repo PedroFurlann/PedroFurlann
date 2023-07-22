@@ -5,10 +5,7 @@
 - :fire: Desenvolvedor Front-end!
 
 
-- :sparkles: Atualmente atuo em projetos pessoais para agregar em minha experiência como programador!
-
-
--  Todos os meu projetos estão disponíveis em [:hammer: Portifólio em construção.](https://github.com/PedroFurlann)
+- :sparkles: Atualmente atuo como Desenvolvedor Front-end no Grupo Sifat e em projetos pessoais para agregar em minha experiência como programador!
 
 - Respondo questões sobre **HTML, CSS, Javascript, Typescript, ReactJS, React Native, Node.JS e SQL.**
 
@@ -21,10 +18,7 @@
 - :fire: Front-end developer!
 
 
-- :sparkles: I'm currently working on personal projects to add to my experience as a programmer!
-
-
-- All my projects are available at [:hammer: Portfolio under construction.](https://github.com/PedroFurlann)
+- :sparkles: I'm currently working on Grupo Sifat as Front-end developer and in personal projects to add to my experience as a programmer!
 
 - I answer questions about **HTML, CSS, Javascript, Typescript, ReactJS, React Native, Node.JS and SQL.**
 
