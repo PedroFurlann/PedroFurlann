@@ -2,7 +2,7 @@
 
 
 
-- :fire: Desenvolvedor Front-end!
+- :fire: Engenheiro de software!
 
 
 - :sparkles: Atualmente atuo como Desenvolvedor Front-end no Grupo Sifat e em projetos pessoais para agregar em minha experiência como programador!
@@ -14,7 +14,7 @@
 
 
 
-- :fire: Front-end developer!
+- :fire: Software engineer!
 
 
 - :sparkles: I'm currently working on Grupo Sifat as Front-end developer and in personal projects to add to my experience as a programmer!
@@ -36,10 +36,8 @@ src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&lo
 src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img align="center" alt="NODE.JS"
 src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-<img align="center" alt="POSTGRESQL"
-src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img align="center" alt="MONGODB"
-src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+<img align="center" alt="MYSQL"
+src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 
 
 
