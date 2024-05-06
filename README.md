@@ -39,11 +39,6 @@ src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.j
 <img align="center" alt="MYSQL"
 src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 
-
-
-
-<br><br>
-
 ## &nbsp;Social Links
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-007785?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-furlan-b77707245/)
