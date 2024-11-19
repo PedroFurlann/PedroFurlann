@@ -5,9 +5,9 @@
 - :fire: Engenheiro de software!
 
 
-- :sparkles: Atualmente atuo como Desenvolvedor Front-end no Grupo Sifat e em projetos pessoais para agregar em minha experiência como programador!
+- :sparkles: Atualmente atuo como Desenvolvedor Full Stack no Grupo Sifat e em Freelances para agregar em minha experiência como programador!
 
-- Respondo questões sobre **HTML, CSS, Javascript, Typescript, ReactJS, React Native, Node.JS e SQL.**
+- Respondo questões sobre **HTML, CSS, Javascript, Typescript, ReactJS, NextJS, React Native, Node.JS, Nest.JS e SQL.**
 
 
 <h1> Welcome to my Github! I'm Pedro Furlan! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
@@ -17,9 +17,9 @@
 - :fire: Software engineer!
 
 
-- :sparkles: I'm currently working on Grupo Sifat as Front-end developer and in personal projects to add to my experience as a programmer!
+- :sparkles: I'm currently working on Grupo Sifat as Full Stack developer and in Freelances to add to my experience as a programmer!
 
-- I answer questions about **HTML, CSS, Javascript, Typescript, ReactJS, React Native, Node.JS and SQL.**
+- I answer questions about **HTML, CSS, Javascript, Typescript, ReactJS, NextJS, React Native, Node.JS, Nest.JS and SQL.**
 
 ## :zap: &nbsp;Tecnologias que domino / Technologies I master:
 <img align="center" alt="HTML5"
