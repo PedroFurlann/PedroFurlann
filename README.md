@@ -5,7 +5,7 @@
 - :fire: Engenheiro de software!
 
 
-- :sparkles: Atualmente atuo como Desenvolvedor Full Stack no Grupo Sifat e em Freelances para agregar em minha experiência como programador!
+- :sparkles: Atualmente atuo como Desenvolvedor Full Stack no Grupo Sifat e como Freelancer para agregar em minha experiência como programador!
 
 - Respondo questões sobre **HTML, CSS, Javascript, Typescript, ReactJS, NextJS, React Native, Node.JS, Nest.JS e SQL.**
 
@@ -17,7 +17,7 @@
 - :fire: Software engineer!
 
 
-- :sparkles: I'm currently working on Grupo Sifat as Full Stack developer and in Freelances to add to my experience as a programmer!
+- :sparkles: I'm currently working on Grupo Sifat as Full Stack developer and as Freelancer to add to my experience as a programmer!
 
 - I answer questions about **HTML, CSS, Javascript, Typescript, ReactJS, NextJS, React Native, Node.JS, Nest.JS and SQL.**
 
